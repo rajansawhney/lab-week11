@@ -25,6 +25,7 @@ else
 fi
 
 output_read_txt=$(./read_txt)
+echo "$output_read_txt"
 expected_output_read_txt="25125126"
 
 if [[ $output_read_txt == *$expected_output_read_txt* ]] ; then

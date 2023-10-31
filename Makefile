@@ -15,8 +15,5 @@ read_binary: read_binary.c
 clean:
 	rm write_txt read_txt write_binary read_binary lab11.txt lab11.bin
 
-# test: write_binary read_binary
-# 	bash test.sh
-
 test: write_txt read_txt write_binary read_binary
 	bash test.sh

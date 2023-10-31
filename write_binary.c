@@ -11,7 +11,7 @@ n1: 4   n2: 20  n3: 21
 
 Note:
 - File "lab11.bin" must be created in the same directory as the program 
-- When displaying, use \t to seperate the numbers on the same line
+- Use struct with n1, n2, and n3 as the stuct's variables
 
 */
 

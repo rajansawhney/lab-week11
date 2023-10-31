@@ -1,8 +1,8 @@
 # ICS 212
-## Homework - Week 10
+## Lab - Week 11
 
 ### Instructions:
-- Update the program files following instructions provided in Homework_Week9.pdf (uploaded on Laulima) and in the program comments.
+- Update the program files following instructions provided in the assignment pdf (uploaded on Laulima) and in the program comments.
 
 **NOTE**: 
 - Github is not a place to test your code. Test it on your machines first. Do not exceed 10 commits. If you exceed 10 commits, your grade will be penalized.
